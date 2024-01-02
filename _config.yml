@@ -7,8 +7,7 @@ first_name: Md Rayhanur
 middle_name: 
 last_name: Rahman
 email: mrahman@ncsu.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Sample description.
+description: # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: 
 keywords: software engineering, software security, cyberthreat intelligence, machine learning, text mining  # add your own keywords or leave empty
 
@@ -64,11 +63,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: rayhanur_rahman
+github_username: rayhanur-rahman
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: rayhanur_rahman
+linkedin_username: rayhanur-rahman
 telegram_username: # your Telegram user name
 scholar_userid: IcD__h8AAAAJ
 semanticscholar_id: 9449596
@@ -307,7 +306,7 @@ max_author_limit: 3  # leave blank to always show all authors
 more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
-enable_publication_thumbnails: true
+enable_publication_thumbnails: false
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
