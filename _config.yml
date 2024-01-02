@@ -7,7 +7,7 @@ first_name: Md Rayhanur
 middle_name: 
 last_name: Rahman
 email: mrahman@ncsu.edu
-description: # the ">" symbol means to ignore newlines until "footer_text:"
+description: "Ph.D. Candidate | Software Security | Software Engineering | Cyberthreat Intelligence" # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: 
 keywords: software engineering, software security, cyberthreat intelligence, machine learning, text mining  # add your own keywords or leave empty
 
