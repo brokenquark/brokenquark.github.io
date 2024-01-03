@@ -22,4 +22,5 @@ such as, natural language processing, machine learning, static analysis, and gro
 Before that, I was a lecturer at Institute of Information Technology (IIT), University of Dhaka (DU). I completed M.Sc. in Software Engineering from IIT, DU, with thesis on scalable resource provisioning in cloud computing. I received my bachelor’s degree in Information Technology (major in software engineering) from the same institute. 
 
 Please reach out if you are interested in discussing my research, proposing new ideas, or collaborating.
+
 Email: mrahman[at]ncsu.edu | rayhan1.618[at]gmail.com
