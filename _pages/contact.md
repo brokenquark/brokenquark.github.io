@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: contact
 permalink: /
 subtitle: "Ph.D. Candidate | Software Security | Software Engineering | Cyberthreat Intelligence"
 
