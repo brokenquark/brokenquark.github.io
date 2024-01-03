@@ -17,36 +17,36 @@
     {
       "name": "NC State University",
       "position": "Graduate Assistant",
-      "startDate": "2018-08-16",
-      "endDate": "2024-05-14",
+      "startDate": "2018",
+      "endDate": "2024",
       "summary": "I served as a research assistant as part of NSA Science of Security Lablet. I investigate the opensource technical reports of past cyberattack incidents to mine malicious behavior patterns. I leverage the patterns to provide proactive and actionable insights for security practitioners. I also served as a teaching assistant for three semesters in software engineering and DevOps-related courses."
     },
     {
       "name": "NC State University",
       "position": "Summer Teaching Instructor",
-      "startDate": "2021-05-18",
-      "endDate": "2021-08-05",
+      "startDate": "2021",
+      "endDate": "2021",
       "summary": "I have worked as a summer teaching instructor for C and Software Tools courses designed for undergraduate students."
     },
     {
       "name": "Microsoft",
       "position": "Research Intern",
-      "startDate": "2020-05-20",
-      "endDate": "2020-08-07",
+      "startDate": "2020",
+      "endDate": "2020",
       "summary": "I have worked with 1ES team to analyze and investigate how the security tools can be improved through empirical methods."
     },
     {
       "name": "University of Dhaka",
       "position": "Lecturer",
-      "startDate": "2014-09-14",
-      "endDate": "2018-08-07",
+      "startDate": "2014",
+      "endDate": "2018",
       "summary": "I taught undergraduate courses such as Discrete Mathematics, Data Structure, Combinatorial Optimization, Object Oriented Concepts, and Operating Systems. I also taught Formal Methods and Models of Software Engineering to graduate students. Apart from teaching, I oversaw undergraduate students' academic affairs and designed course curricula for external institutions."
     },
     {
       "name": "Kaz Software",
       "position": "Software Engineer",
-      "startDate": "2012-08-12",
-      "endDate": "2014-09-13",
+      "startDate": "2012",
+      "endDate": "2014",
       "summary": "I worked on a proprietary Google Chrome extension named LinkableNews and a web application named LinkableService, which provided web ontology and identity services."
     }
   ],
@@ -56,24 +56,24 @@
       "location": "Raleigh, NC, USA",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "2018-08-16",
-      "endDate": "2024-05-14"
+      "startDate": "2018",
+      "endDate": "2024"
     },
     {
       "institution": "University of Dhaka",
       "location": "Dhaka, Bangladesh",
       "area": "Software Engineer",
       "studyType": "Master's",
-      "startDate": "2013-01-01",
-      "endDate": "2014-06-30"
+      "startDate": "2013",
+      "endDate": "2014"
     },
     {
       "institution": "University of Dhaka",
       "location": "Dhaka, Bangladesh",
       "area": "Software Engineer",
       "studyType": "Bachelor",
-      "startDate": "2009-01-01",
-      "endDate": "2012-12-31"
+      "startDate": "2009",
+      "endDate": "2012"
     }
   ]
 }
