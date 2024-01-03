@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: "Ph.D. Candidate | Software Security | Software Engineering | Cyberthreat Intelligence"
 
 profile:
   align: right
