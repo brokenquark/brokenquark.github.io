@@ -23,4 +23,4 @@ Before that, I was a lecturer at Institute of Information Technology (IIT), Univ
 
 Please reach out if you are interested in discussing my research, proposing new ideas, or collaborating.
 
-Email: mrahman[at]ncsu.edu | rayhan1.618[at]gmail.com
+Email: mrahman[at]ncsu.edu

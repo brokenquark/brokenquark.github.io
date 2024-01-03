@@ -53,7 +53,6 @@
   "education": [
     {
       "institution": "NC State University",
-      "location": "Raleigh, NC, USA",
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2018",
@@ -61,16 +60,14 @@
     },
     {
       "institution": "University of Dhaka",
-      "location": "Dhaka, Bangladesh",
-      "area": "Software Engineer",
+      "area": "Software Engineering",
       "studyType": "Master's",
       "startDate": "2013",
       "endDate": "2014"
     },
     {
       "institution": "University of Dhaka",
-      "location": "Dhaka, Bangladesh",
-      "area": "Software Engineer",
+      "area": "Software Engineering",
       "studyType": "Bachelor",
       "startDate": "2009",
       "endDate": "2012"
